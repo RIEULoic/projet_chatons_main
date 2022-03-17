@@ -9,7 +9,7 @@
 
 Item.destroy_all
 
-cat_pics = ["https://images.pexels.com/photos/1643456/pexels-photo-1643456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+cat_pics = [
   "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", 
   "https://images.pexels.com/photos/2071873/pexels-photo-2071873.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", 
   "https://images.pexels.com/photos/1687710/pexels-photo-1687710.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", 
